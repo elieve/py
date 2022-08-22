@@ -30,7 +30,7 @@ IN_BTTS = [
     [
         Button.url(
             "Repository",
-            url="https://github.com/elieve/ultro",
+            url="https://telegram.dog/XTZ_HerokuBot?start=ZWxpZXZlL3VsdHJvIG1haW4",
         ),
         Button.url("Support", url="https://t.me/ygabutkan"),
     ]
